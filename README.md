@@ -1,1 +1,1 @@
-# Pharos-Testnet-Bot
+# Token Tails Bot
